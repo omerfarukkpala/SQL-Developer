@@ -1,2 +1,2 @@
-# SQL-Developer
+# SQL-Developer 🚀
 Sql
