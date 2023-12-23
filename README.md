@@ -12,6 +12,9 @@ Sql
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/2d835ddf-5046-4263-aed2-9df74ab3ce3c)
 ## 4- Insert Districts
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/aa018510-5abf-47de-9cad-037c1ca8e490)
+## 5- Queries
+### Query 1: Select the customers that names starts with 'A'
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/c950b4f3-77ab-48d1-9b2a-90eb3700a0fc)
 
 ## 2-HUMAN-RESOURCES
 
