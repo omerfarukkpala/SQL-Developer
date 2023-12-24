@@ -33,6 +33,10 @@ Sql
 ![7](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/8c37a400-b077-4aa5-8d93-23b16ae4b932)
 ### Query 8: Write the query that shows how many female and male customers are in which city
 ![8](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/926b0387-0979-4b02-aeb6-88a3ae678cd5)
+![888](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/5435763c-5dd5-477d-b053-ed9acd5bc900)
+### Query 9: Add new columns called AGEGROUP in customers table. Type should be varchar(50)
+![9](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/4e96a876-bf1f-4f7c-bf9f-28f7aaa9cba5)
+
 
 
 ## 2-HUMAN-RESOURCES
