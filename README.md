@@ -1,9 +1,5 @@
 # SQL-Developer 🚀
-
-Sql
-
 ## 1-CUSTOMERS
-
 ### 1- Creating Database Tables
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/989cadb8-fae5-406f-a690-0d384fdf2ec5)
 ### 2- Insert Customers
@@ -15,16 +11,12 @@ Sql
 ## 5- Queries
 ### Query 1: Select the customers that names starts with 'A'
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/74c189c7-ad4d-494e-9cb3-278a976bb4b9)
-
 ### Query 2: Select the male customers that starts with 'A'
 ![cusss](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e816f73e-aa3e-4e2f-a6a9-ef4fc71de883)
-
 ### Query 3: Select the customers that born between 1990 and 1995
 ![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/0de58187-374d-4d49-b557-b63fd30a0861)
-
 ### Query  4: With 'JOIN' command, select the customers who live in İSTANBUL
 ![Adsız](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/5f10ea96-c4b4-4154-9742-40546f288b1c)
-
 ### Query 5: With subquery, select the customers who live in İSTANBUL
 ![555](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/91ead721-fa32-4664-8905-462f81b8f927)
 ### Query  6: Write the query that shows how many customers are in which city and order them in desending
@@ -42,8 +34,12 @@ Sql
 ![10-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/a2871bc7-bcdf-47b8-be7b-f2ce2e4782b4)
 ###  Query 11: Write the query that shows customers live in Istanbul but district is not 'Kadıköy'
 ![11](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/2c6d851a-cc93-40a1-988f-6de3b002680a)
-###  Query 11-1: Write the query that shows customers whose cıty table's is null
+###  Query 11-1: Write the query that shows customers whose city table's is null
 ![11-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/dfaf3d3e-520d-40d2-9fec-bcbe59c97b54)
+###  Query 12: Write the query that shows customers phones operators as OPERATOR1 and OPERATOR2
+![12](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/70940404-6869-4808-9a57-e778670f16f1)
+
+
 
 
 ## 2-HUMAN-RESOURCES
