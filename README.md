@@ -16,6 +16,9 @@ Sql
 ### Query 1: Select the customers that names starts with 'A'
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/74c189c7-ad4d-494e-9cb3-278a976bb4b9)
 
+### Query 2: Select the male customers that starts with 'A'
+![cusss](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e816f73e-aa3e-4e2f-a6a9-ef4fc71de883)
+
 ## 2-HUMAN-RESOURCES
 
 ## 3-ETRADE
