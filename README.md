@@ -29,6 +29,8 @@ Sql
 ![555](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/91ead721-fa32-4664-8905-462f81b8f927)
 ### Query  6: Write the query that shows how many customers are in which city and order them in desending
 ![66](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/46d01d05-d420-46da-b813-3ccec46bf0d6)
+### Query 7: Write the query that shows cities have more than 10 customers and order them in descending
+![7](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/8c37a400-b077-4aa5-8d93-23b16ae4b932)
 
 
 ## 2-HUMAN-RESOURCES
