@@ -20,9 +20,14 @@ Sql
 ![cusss](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e816f73e-aa3e-4e2f-a6a9-ef4fc71de883)
 
 ### Query 3: Select the customers that born between 1990 and 1995
-![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/c17dc9e0-1a23-4223-99f2-df2676b20fb1)
+![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/0de58187-374d-4d49-b557-b63fd30a0861)
+
 ### Query  4: With 'JOIN' command, select the customers who live in İSTANBUL
 ![Adsız](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/5f10ea96-c4b4-4154-9742-40546f288b1c)
+
+### Query 5: With subquery, select the customers who live in İSTANBUL
+![555](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/91ead721-fa32-4664-8905-462f81b8f927)
+
 
 ## 2-HUMAN-RESOURCES
 
