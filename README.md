@@ -31,6 +31,8 @@ Sql
 ![66](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/46d01d05-d420-46da-b813-3ccec46bf0d6)
 ### Query 7: Write the query that shows cities have more than 10 customers and order them in descending
 ![7](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/8c37a400-b077-4aa5-8d93-23b16ae4b932)
+### Query 8: Write the query that shows how many female and male customers are in which city
+![8](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/926b0387-0979-4b02-aeb6-88a3ae678cd5)
 
 
 ## 2-HUMAN-RESOURCES
