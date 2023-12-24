@@ -42,7 +42,8 @@ Sql
 ![10-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/a2871bc7-bcdf-47b8-be7b-f2ce2e4782b4)
 ###  Query 11: Write the query that shows customers live in Istanbul but district is not 'Kadıköy'
 ![11](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/2c6d851a-cc93-40a1-988f-6de3b002680a)
-
+###  Query 11-1: Write the query that shows customers whose cıty table's is null
+![11-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/dfaf3d3e-520d-40d2-9fec-bcbe59c97b54)
 
 
 ## 2-HUMAN-RESOURCES
