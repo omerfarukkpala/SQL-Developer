@@ -19,6 +19,9 @@ Sql
 ### Query 2: Select the male customers that starts with 'A'
 ![cusss](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e816f73e-aa3e-4e2f-a6a9-ef4fc71de883)
 
+### Query 3: Select the customers that born between 1990 and 1995
+![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/c17dc9e0-1a23-4223-99f2-df2676b20fb1)
+
 ## 2-HUMAN-RESOURCES
 
 ## 3-ETRADE
