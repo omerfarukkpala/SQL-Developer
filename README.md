@@ -38,11 +38,14 @@
 ![11-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/dfaf3d3e-520d-40d2-9fec-bcbe59c97b54)
 ###  Query 12: Write the query that shows customers phones operators as OPERATOR1 and OPERATOR2
 ![12](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/70940404-6869-4808-9a57-e778670f16f1)
-### Query 13:Here, write the query that will provide information about how many customers we have from which operator
+### Query 13: Here, write the query that will provide information about how many customers we have from which operator
 ![13](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/ea73576c-7a2e-4446-bcd5-b7cb8ea210d8)
 ###  Query 14: Write the query that shows total customers of district and order them in descending
 ![14](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/205a2b6c-f86c-463d-940d-5f3818494ac3)
-
+###  Query 15: Write the query that shows customer birth date as a weekday
+![15](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/06ebecbc-6275-4bfc-80d4-e73436f479e3)
+###  Query 15-1: Write the query that shows customer birth date is today
+![15-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/fee60b63-a800-47da-b2e8-e2988a60f6bf)
 
 
 
