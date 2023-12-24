@@ -37,7 +37,8 @@ Sql
 ### Query 9: Add new columns called AGEGROUP in customers table. Type should be varchar(50)
 ![9](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/4e96a876-bf1f-4f7c-bf9f-28f7aaa9cba5)
 
-
+### Query 10: Update AGEGROUP as 20-35, 36-45, 46-55, 56-65, 65+
+![10](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/375a6dae-850a-4820-b07c-e180d4fe4f5e)
 
 ## 2-HUMAN-RESOURCES
 
