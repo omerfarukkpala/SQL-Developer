@@ -21,6 +21,8 @@ Sql
 
 ### Query 3: Select the customers that born between 1990 and 1995
 ![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/c17dc9e0-1a23-4223-99f2-df2676b20fb1)
+### Query  4: With 'JOIN' command, select the customers who live in İSTANBUL
+![Adsız](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/5f10ea96-c4b4-4154-9742-40546f288b1c)
 
 ## 2-HUMAN-RESOURCES
 
