@@ -27,6 +27,8 @@ Sql
 
 ### Query 5: With subquery, select the customers who live in İSTANBUL
 ![555](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/91ead721-fa32-4664-8905-462f81b8f927)
+### Query  6: Write the query that shows how many customers are in which city and order them in desending
+![66](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/46d01d05-d420-46da-b813-3ccec46bf0d6)
 
 
 ## 2-HUMAN-RESOURCES
