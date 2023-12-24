@@ -40,6 +40,8 @@ Sql
 ![10](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/375a6dae-850a-4820-b07c-e180d4fe4f5e)
 ### Query 10-1: Write the query that shows how many customers are in which group without using AGEGROUP
 ![10-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/a2871bc7-bcdf-47b8-be7b-f2ce2e4782b4)
+###  Query 11: Write the query that shows customers live in Istanbul but district is not 'Kadıköy'
+![11](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/2c6d851a-cc93-40a1-988f-6de3b002680a)
 
 
 
