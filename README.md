@@ -94,13 +94,24 @@
 ![15-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/fee60b63-a800-47da-b2e8-e2988a60f6bf)
 
 ## 2-HUMAN-RESOURCES
-
 ### 1- Creating Database Tables![1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/daeef128-c1f8-4e68-beee-7b0bfd76ea91)
-
-
 ### 2- Insert DEPARTMENTS 
 ![İNSERTABLEEE](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d5c1f61f-3f20-4b31-afcb-9c2edaf70286)
 ### 3- INSERT DATA IN PERSONS TABLE
 ![1111111111](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e1c45efa-d87c-4bc6-be38-3d5765e26084)
 ### 4- INSERT DATA IN POSITIONS TABLE ![POSİTİON ADD](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e9f6a956-74c2-46ef-9b97-b90f3e0939a1)
+## 5- Queries
+### Select persons who still working (OUTDATE is null) in the company
+![2](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/af22c80a-0924-4d94-a76b-c28ffd11e70d)
+### Select total women and men who is stil working for each department
+![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/77ea3a15-9c39-4e3a-a034-e5296ef71392)
+### Select total women and men who is stil working for each department (as column)
+![4444](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/362a12b6-b8ea-4a0a-a169-719feaf1b315)
+### Select min, max and average salary for 'PLANLAMA ŞEFİ'
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/b2cc6457-c8c5-463e-9c17-b3831a164648)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d8057a29-ed8c-4981-bbc6-a5bbff9f2788)
+### Write a query that shows total person who still working and them average salary for each position
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/433f30da-8ad7-48d8-9f34-777bf17b0157)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/b56d35f2-084d-4401-afb0-da700fdb8d40)
+
 ## 3-ETRADE
