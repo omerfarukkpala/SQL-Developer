@@ -66,3 +66,51 @@ SELECT
 FROM PERSONS AS P
 GROUP BY YEAR(INDATE)
 ORDER BY 1
+
+--Write the query that shows how many months each employee has worked.
+--Her çalışanın kaç ay çalıştığını gösteren sorguyu yazınız.
+SELECT  NAME_+' '+ SURNAME, INDATE , OUTDATE,
+  CASE
+	WHEN OUTDATE IS NULL THEN DATEDIFF(MONTH, INDATE, GETDATE())
+	WHEN OUTDATE IS NOT NULL THEN DATEDIFF(MONTH, INDATE, OUTDATE)
+ END AS WORKING_TIME
+FROM PERSONS
+
+--Write the query that shows total shortnames
+--Toplam kısa adları gösteren sorguyu yazın
+SELECT
+  LEFT(NAME_, 1) + '.' + LEFT(SURNAME, 1) AS SHORT_NAME,
+  COUNT(LEFT(NAME_, 1) + '.' + LEFT(SURNAME, 1)) AS TOTAL_SHORTNAMES
+FROM PERSONS
+GROUP BY LEFT(NAME_, 1) + '.' + LEFT(SURNAME, 1)
+ORDER BY TOTAL_SHORTNAMES DESC
+
+--Write the query that shows departments ordinary salary greater than 5500
+--8. Maaş ortalaması 5.500 TL’den fazla olan departmanları listeleyecek sorguyu yazınız. 
+SELECT DEPARTMENT,
+  ROUND(AVG(SALARY), 0) AS AVG_SALARY
+FROM PERSONS AS P
+  JOIN DEPARTMENTS AS DP ON DP.ID=P.DEPARTMENTID
+GROUP BY DP.DEPARTMENT
+HAVING ROUND(AVG(SALARY), 0) > 5500
+ORDER BY AVG_SALARY DESC
+
+--Option 2
+SELECT DP.DEPARTMENT,
+  ROUND((SELECT AVG(SALARY) FROM PERSONS WHERE DEPARTMENTID=DP.ID), 0) AS AVG_SALARY
+FROM DEPARTMENTS AS DP
+WHERE ROUND((SELECT AVG(SALARY) FROM PERSONS WHERE DEPARTMENTID=DP.ID), 0)>5500
+ORDER BY AVG_SALARY DESC
+
+--Write the query that shows person nanme, position, manager and manager position for each person
+--9. Her personelin adını, pozisyonunu bağlı olduğu birim yöneticisinin adını ve pozisyonunu yönetici 
+--pozisyonunu getiren sorguyu yazınız.
+--Write the query that shows person nanme, position, manager and manager position for each person
+SELECT  P.NAME_ + ' ' + P.SURNAME AS PERSON,
+  PS.POSITION,
+  P2.NAME_ + ' ' + P2.SURNAME AS MANAGER,
+  PS2.POSITION AS MANAGER_POSITION
+FROM  PERSONS AS P
+  JOIN POSITIONS AS PS ON PS.ID=P.POSITIONID
+  JOIN PERSONS AS P2 ON P2.MANAGERID=P2.ID
+  JOIN POSITIONS AS PS2 ON PS2.ID=P2.POSITIONID
