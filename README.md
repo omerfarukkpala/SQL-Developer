@@ -105,5 +105,7 @@
 ![2](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/af22c80a-0924-4d94-a76b-c28ffd11e70d)
 ### Select total women and men who is stil working for each department
 ![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/77ea3a15-9c39-4e3a-a034-e5296ef71392)
+### Select total women and men who is stil working for each department (as column)
+![4444](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/362a12b6-b8ea-4a0a-a169-719feaf1b315)
 
 ## 3-ETRADE
