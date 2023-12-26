@@ -124,5 +124,7 @@
 ### Write the query that shows departments ordinary salary greater than 5500
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/baa8aa85-1738-4221-a1c4-68197681996c)
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/faafc6fc-113e-4763-86bd-a5537b2725a1)
+### Write the query that shows person nanme, position, manager and manager position for each person
+![9999](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d41bb6c0-ce1b-4275-84af-b5ea093e7f48)
 
 ## 3-ETRADE
