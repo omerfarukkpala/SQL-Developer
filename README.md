@@ -113,5 +113,8 @@
 ### Write a query that shows total person who still working and them average salary for each position
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/433f30da-8ad7-48d8-9f34-777bf17b0157)
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/b56d35f2-084d-4401-afb0-da700fdb8d40)
+### Write a query that shows total recruitment male and female for each year
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/de247478-dd21-4fa6-9239-fe6d9dfdd576)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/56e2a121-d7d7-416d-8b63-4f619938bd7b)
 
 ## 3-ETRADE
