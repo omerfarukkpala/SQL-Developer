@@ -96,5 +96,8 @@
 ## 2-HUMAN-RESOURCES
 
 ### 1- Creating Database Tables
+![1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/38c96c16-7153-4a40-a5d6-86378991b7b3)
+### 2- Insert DEPARTMENTS 
+![İNSERTABLEEE](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d5c1f61f-3f20-4b31-afcb-9c2edaf70286)
 
 ## 3-ETRADE
