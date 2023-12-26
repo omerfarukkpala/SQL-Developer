@@ -9,6 +9,7 @@
 ### 2- Insert Customers
 
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/f9bcb12a-3a9d-44a9-8ea0-b9bc4b220877)
+![sssssss](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/7fe45cdf-737b-4d70-90c3-2622163e6b81)
 
 ### 3- Insert Cities
 
