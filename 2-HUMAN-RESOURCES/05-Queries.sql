@@ -56,3 +56,13 @@ FROM PERSONS AS P
 WHERE P.OUTDATE IS NULL
 GROUP BY PS.POSITION
 ORDER BY PS.POSITION
+
+--Write a query that shows total recruitment male and female for each year
+--7. Yıllara göre işe alınan personel sayısını kadın ve erkek bazında listelettiren sorguyu yazınız.
+SELECT
+  YEAR(P.INDATE) AS YEAR_,
+  (SELECT COUNT(*) FROM PERSONS WHERE GENDER='E' AND YEAR(INDATE)=YEAR(P.INDATE)) AS TOTAL_MALE,
+  (SELECT COUNT(*) FROM PERSONS WHERE GENDER='K' AND YEAR(INDATE)=YEAR(P.INDATE)) AS TOTAL_FEMALE
+FROM PERSONS AS P
+GROUP BY YEAR(INDATE)
+ORDER BY 1
