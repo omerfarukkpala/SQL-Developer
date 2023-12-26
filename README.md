@@ -94,13 +94,11 @@
 ![15-1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/fee60b63-a800-47da-b2e8-e2988a60f6bf)
 
 ## 2-HUMAN-RESOURCES
-
 ### 1- Creating Database Tables![1](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/daeef128-c1f8-4e68-beee-7b0bfd76ea91)
-
-
 ### 2- Insert DEPARTMENTS 
 ![İNSERTABLEEE](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d5c1f61f-3f20-4b31-afcb-9c2edaf70286)
 ### 3- INSERT DATA IN PERSONS TABLE
 ![1111111111](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e1c45efa-d87c-4bc6-be38-3d5765e26084)
 ### 4- INSERT DATA IN POSITIONS TABLE ![POSİTİON ADD](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e9f6a956-74c2-46ef-9b97-b90f3e0939a1)
+## 5- Queries
 ## 3-ETRADE
