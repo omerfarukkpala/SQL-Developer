@@ -1,6 +1,9 @@
 # SQL-Developer 🚀
 
 ## 1-CUSTOMERS
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/bf0dca36-a2bc-4d0c-8759-31c5f6703aae)
+## SCENARIO 1 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d123ed34-81b5-4ffe-a628-2ade9ebec230)
+## SCENARIO 2 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/64874044-519b-4a33-8ecb-70a0b4363fd3)
 
 ### 1- Creating Database Tables
 
