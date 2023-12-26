@@ -126,5 +126,8 @@
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/faafc6fc-113e-4763-86bd-a5537b2725a1)
 ### Write the query that shows person nanme, position, manager and manager position for each person
 ![9999](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d41bb6c0-ce1b-4275-84af-b5ea093e7f48)
+### Write the query that captures the average seniority of the departments
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/742f5a09-b7c3-4370-966f-d27b12175673)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/9e7569c3-2235-4847-be25-3b45468525b8)
 
 ## 3-ETRADE
