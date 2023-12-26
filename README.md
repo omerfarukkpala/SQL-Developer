@@ -110,5 +110,8 @@
 ### Select min, max and average salary for 'PLANLAMA ŞEFİ'
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/b2cc6457-c8c5-463e-9c17-b3831a164648)
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d8057a29-ed8c-4981-bbc6-a5bbff9f2788)
-### 
+### Write a query that shows total person who still working and them average salary for each position
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/433f30da-8ad7-48d8-9f34-777bf17b0157)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/b56d35f2-084d-4401-afb0-da700fdb8d40)
+
 ## 3-ETRADE
