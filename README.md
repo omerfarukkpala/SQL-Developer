@@ -1,6 +1,9 @@
 # SQL-Developer 🚀
 
 ## 1-CUSTOMERS
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/bf0dca36-a2bc-4d0c-8759-31c5f6703aae)
+## SCENARIO 1 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d123ed34-81b5-4ffe-a628-2ade9ebec230)
+## SCENARIO 2 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/64874044-519b-4a33-8ecb-70a0b4363fd3)
 
 ### 1- Creating Database Tables
 
@@ -9,6 +12,7 @@
 ### 2- Insert Customers
 
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/f9bcb12a-3a9d-44a9-8ea0-b9bc4b220877)
+![sssssss](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/7fe45cdf-737b-4d70-90c3-2622163e6b81)
 
 ### 3- Insert Cities
 
@@ -124,5 +128,10 @@
 ### Write the query that shows departments ordinary salary greater than 5500
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/baa8aa85-1738-4221-a1c4-68197681996c)
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/faafc6fc-113e-4763-86bd-a5537b2725a1)
+### Write the query that shows person nanme, position, manager and manager position for each person
+![9999](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d41bb6c0-ce1b-4275-84af-b5ea093e7f48)
+### Write the query that captures the average seniority of the departments
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/742f5a09-b7c3-4370-966f-d27b12175673)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/9e7569c3-2235-4847-be25-3b45468525b8)
 
 ## 3-ETRADE
