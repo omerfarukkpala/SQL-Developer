@@ -101,4 +101,7 @@
 ![1111111111](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e1c45efa-d87c-4bc6-be38-3d5765e26084)
 ### 4- INSERT DATA IN POSITIONS TABLE ![POSİTİON ADD](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/e9f6a956-74c2-46ef-9b97-b90f3e0939a1)
 ## 5- Queries
+### Select persons who still working (OUTDATE is null) in the company
+![2](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/af22c80a-0924-4d94-a76b-c28ffd11e70d)
+
 ## 3-ETRADE
