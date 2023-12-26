@@ -119,5 +119,7 @@
 
 ### Write the query that shows how many months each employee has worked.
 ![dadsadsa](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/316ab59f-dde9-412b-8fa0-c43d4a75a9fa)
+### Write the query that shows total shortnames
+![231321](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/5f4d829c-a261-45f1-ac4a-7b2c21aca799)
 
 ## 3-ETRADE
