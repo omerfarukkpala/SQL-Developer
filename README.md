@@ -107,5 +107,8 @@
 ![333](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/77ea3a15-9c39-4e3a-a034-e5296ef71392)
 ### Select total women and men who is stil working for each department (as column)
 ![4444](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/362a12b6-b8ea-4a0a-a169-719feaf1b315)
-
+### Select min, max and average salary for 'PLANLAMA ŞEFİ'
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/b2cc6457-c8c5-463e-9c17-b3831a164648)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d8057a29-ed8c-4981-bbc6-a5bbff9f2788)
+### 
 ## 3-ETRADE
