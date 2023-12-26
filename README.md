@@ -117,4 +117,12 @@
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/de247478-dd21-4fa6-9239-fe6d9dfdd576)
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/56e2a121-d7d7-416d-8b63-4f619938bd7b)
 
+### Write the query that shows how many months each employee has worked.
+![dadsadsa](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/316ab59f-dde9-412b-8fa0-c43d4a75a9fa)
+### Write the query that shows total shortnames
+![231321](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/5f4d829c-a261-45f1-ac4a-7b2c21aca799)
+### Write the query that shows departments ordinary salary greater than 5500
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/baa8aa85-1738-4221-a1c4-68197681996c)
+![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/faafc6fc-113e-4763-86bd-a5537b2725a1)
+
 ## 3-ETRADE
