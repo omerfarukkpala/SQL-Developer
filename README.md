@@ -1,14 +1,14 @@
 # SQL-Developer 🚀 
-## 🔍 SELECT: Retrieve information from the database.
-## 🗂️ FROM: Specify where to look for the info.
-## 🎯 WHERE: Filter and find specific stuff.
-👥 GROUP BY: Organize similar things together.
-🔀 ORDER BY: Arrange your info in a specific order.
-🤝 JOIN: Combine info from different places.
-➕ INSERT INTO: Add new stuff to the database.
-🔄 UPDATE: Modify existing info.
-🗑️ DELETE FROM: Remove things (careful with this one!).
-🔧 ALTER TABLE: Make changes to the structure of your database.
+##### 🔍 SELECT: Retrieve information from the database.
+#####  🗂️ FROM: Specify where to look for the info.
+#####  🎯 WHERE: Filter and find specific stuff.
+##### 👥 GROUP BY: Organize similar things together.
+##### 🔀 ORDER BY: Arrange your info in a specific order.
+##### 🤝 JOIN: Combine info from different places.
+##### ➕ INSERT INTO: Add new stuff to the database.
+##### 🔄 UPDATE: Modify existing info.
+##### 🗑️ DELETE FROM: Remove things (careful with this one!).
+##### 🔧 ALTER TABLE: Make changes to the structure of your database.
 ## 1-CUSTOMERS  
 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/bf0dca36-a2bc-4d0c-8759-31c5f6703aae)
 ## SCENARIO 1 ![image](https://github.com/omerfarukkpala/SQL-Developer/assets/101570820/d123ed34-81b5-4ffe-a628-2ade9ebec230)
