@@ -1,7 +1,7 @@
 # SQL-Developer 🚀 
-🔍 SELECT: Retrieve information from the database.
-🗂️ FROM: Specify where to look for the info.
-🎯 WHERE: Filter and find specific stuff.
+## 🔍 SELECT: Retrieve information from the database.
+## 🗂️ FROM: Specify where to look for the info.
+## 🎯 WHERE: Filter and find specific stuff.
 👥 GROUP BY: Organize similar things together.
 🔀 ORDER BY: Arrange your info in a specific order.
 🤝 JOIN: Combine info from different places.
