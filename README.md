@@ -1,4 +1,23 @@
 # SQL-Developer 🚀  
+# SQL Eğitimi 🚀  
+
+Bu kurs boyunca, SQL dilini temel seviyeden başlayarak kapsamlı bir şekilde öğrenme şansı buldum. Eğitim sürecinde, Select, Insert, Update, Delete gibi temel SQL cümleleri ile veritabanı sorgulamayı etkili bir biçimde gerçekleştirebilmeyi öğrendim.
+
+Ayrıca, Create, Alter, Drop gibi DDL komutlarını nasıl kullanacağımı öğrenmenin yanı sıra, ilişkisel veritabanı mantığı ve mimarisini de detaylı bir şekilde kavradım. Öğretim yöntemleri, iç içe select (subquery) kullanımı, Index, View, Procedure, Function gibi kavramları gerçek veri ve senaryolar üzerinde uygulayarak öğrenmemi sağladı.
+
+MSSQL platformunda bu kavramları nasıl etkili bir şekilde kullanabileceğimi öğrenmek, aldığım eğitimi daha da değerli kıldı. Ömer Çolakoğlu hocama, anlaşılır ve etkili öğretimi için teşekkür ederim.
+
+## İçerikler
+
+- **Temel SQL Cümleleri:** Select, Insert, Update, Delete gibi temel SQL cümlelerini etkili bir şekilde kullanmayı öğrenin.
+- **DDL Komutları:** Create, Alter, Drop gibi DDL komutlarını nasıl kullanacağınızı öğrenin.
+- **İlişkisel Veritabanı Mantığı:** Veritabanı tasarımı ve ilişkisel veritabanı mantığını kavrayın.
+- **Öğretim Yöntemleri:** İç içe select (subquery) kullanımı, Index, View, Procedure, Function gibi kavramları gerçek veri ve senaryolar üzerinde uygulayarak öğrenin.
+
+## Kullanılan Teknolojiler
+
+- MSSQL Platformu
+
 ##### 🔍 SELECT: Retrieve information from the database.
 #####  🗂️ FROM: Specify where to look for the info. 
 #####  🎯 WHERE: Filter and find specific stuff.
