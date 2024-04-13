@@ -1,4 +1,4 @@
- # SQL-Developer 🚀                      
+ # SQL-Developer 🚀                       
             
  MS QSL Developer eğitimi boyunca, SQL dilini temel seviyeden başlayarak kapsamlı bir şekilde öğrenme şansı buldum. Eğitim sürecinde, Select, Insert, Update, Delete gibi temel SQL cümleleri ile veritabanı sorgulamayı etkili bir biçimde gerçekleştirebilmeyi öğrendim.
 
