@@ -13,9 +13,9 @@ Ayrıca, Create, Alter, Drop gibi DDL komutlarını nasıl kullanacağımı öğ
 - **İlişkisel Veritabanı Mantığı:** Veritabanı tasarımı ve ilişkisel veritabanı mantığını kavrayın.
 - **Öğretim Yöntemleri:** İç içe select (subquery) kullanımı, Index, View, Procedure, Function gibi kavramları gerçek veri ve senaryolar üzerinde uygulayarak öğrenin.
 
-## Kullanılan Teknolojiler
+## - MSSQL Platformu
 
-- MSSQL Platformu
+
 
 ##### 🔍 SELECT: Retrieve information from the database.
 #####  🗂️ FROM: Specify where to look for the info. 
