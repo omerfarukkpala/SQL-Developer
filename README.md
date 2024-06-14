@@ -5,7 +5,7 @@
 Ayrıca, Create, Alter, Drop gibi DDL komutlarını nasıl kullanacağımı öğrenmenin yanı sıra, ilişkisel veritabanı mantığı ve mimarisini de detaylı bir şekilde kavradım. Öğretim yöntemleri, iç içe select (subquery) kullanımı, Index, View, Procedure, Function gibi kavramları gerçek veri ve senaryolar üzerinde uygulayarak öğrenmemi sağladı.
  
  
-  
+   
 ## İçerikler  
 
 - **Temel SQL Cümleleri:** Select, Insert, Update, Delete gibi temel SQL cümlelerini etkili bir şekilde kullanmayı öğrenin.
