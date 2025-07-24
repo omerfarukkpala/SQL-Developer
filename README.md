@@ -6,7 +6,7 @@ Ayrıca, Create, Alter, Drop gibi DDL komutlarını nasıl kullanacağımı öğ
      
                         
              
-## İçerikler      
+## İçerikler       
 
 - **Temel SQL Cümleleri:** Select, Insert, Update, Delete gibi temel SQL cümlelerini etkili bir şekilde kullanmayı öğrenin.
 - **DDL Komutları:** Create, Alter, Drop gibi DDL komutlarını nasıl kullanacağınızı öğrenin.
